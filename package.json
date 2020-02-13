@@ -8,5 +8,8 @@
     "type": "git"
   },
   "author": "Your Name <you@example.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
 }
