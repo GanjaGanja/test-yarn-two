@@ -52,7 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["js-tokens", [
         ["npm:4.0.0", {
-          "packageLocation": "./.yarn/cache/js-tokens-npm-4.0.0-0ac852e9e2-2.zip/node_modules/js-tokens/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/js-tokens-npm-4.0.0-0ac852e9e2-2.zip/node_modules/js-tokens/",
           "packageDependencies": [
             ["js-tokens", "npm:4.0.0"]
           ],
@@ -61,7 +61,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["loose-envify", [
         ["npm:1.4.0", {
-          "packageLocation": "./.yarn/cache/loose-envify-npm-1.4.0-6307b72ccf-2.zip/node_modules/loose-envify/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/loose-envify-npm-1.4.0-6307b72ccf-2.zip/node_modules/loose-envify/",
           "packageDependencies": [
             ["loose-envify", "npm:1.4.0"],
             ["js-tokens", "npm:4.0.0"]
@@ -71,7 +71,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["object-assign", [
         ["npm:4.1.1", {
-          "packageLocation": "./.yarn/cache/object-assign-npm-4.1.1-1004ad6dec-2.zip/node_modules/object-assign/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/object-assign-npm-4.1.1-1004ad6dec-2.zip/node_modules/object-assign/",
           "packageDependencies": [
             ["object-assign", "npm:4.1.1"]
           ],
@@ -80,7 +80,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["prop-types", [
         ["npm:15.7.2", {
-          "packageLocation": "./.yarn/cache/prop-types-npm-15.7.2-d7a04f2274-2.zip/node_modules/prop-types/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/prop-types-npm-15.7.2-d7a04f2274-2.zip/node_modules/prop-types/",
           "packageDependencies": [
             ["prop-types", "npm:15.7.2"],
             ["loose-envify", "npm:1.4.0"],
@@ -92,7 +92,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["react", [
         ["npm:16.12.0", {
-          "packageLocation": "./.yarn/cache/react-npm-16.12.0-55f18a7792-2.zip/node_modules/react/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/react-npm-16.12.0-55f18a7792-2.zip/node_modules/react/",
           "packageDependencies": [
             ["react", "npm:16.12.0"],
             ["loose-envify", "npm:1.4.0"],
@@ -104,7 +104,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["react-is", [
         ["npm:16.12.0", {
-          "packageLocation": "./.yarn/cache/react-is-npm-16.12.0-b02e1a4098-2.zip/node_modules/react-is/",
+          "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/react-is-npm-16.12.0-b02e1a4098-2.zip/node_modules/react-is/",
           "packageDependencies": [
             ["react-is", "npm:16.12.0"]
           ],
